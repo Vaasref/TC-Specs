@@ -24,14 +24,14 @@
 
 ```
 
-# HSDP-1D High Speed Data Printer
+# HSDP-1 High Speed Data Printer
 
 | Item | Value | Comment |
 | :--- | :--- | :--- |
 | Vendor code | 0xF6956D00 | SlapDragon |
-| Device ID   | 0x48534450 | HSDP-1 High Speed Data Printer |
+| Device ID   | 0x48534450 | HSDP - High Speed Data Printer |
 | Device Type | 0xcff2     | Generic, nonstandard output device |
-| Version     | 0x0100        | |
+| Version     | 0x0100     | Model 1 |
 
 ## Description
 
