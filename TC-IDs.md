@@ -31,6 +31,10 @@ Currently used IDs
 * `0xC2200311` - Rin Yu Research
   * `0xF7F7EE03` - ver `0x0400` - [Vectored Thruster Array Control Interface](VTACI.md)
 
+* `0xF6956D00` - SlapDragon
+  * `0x48534450` - ver `0x0100` - [HSDP-1 High Speed Data Printer](HSDP-1.md)
+  * `0x48534450` - ver `0x0144` - [HSDP-1D High Speed Data Printer](HSDP-1D.md)
+
 * `0x5672746B` - Vartok hardware
   * `0xC0F00001` - ver `0x0001` - [Speaker Hardware](speaker.md)
 
@@ -40,9 +44,6 @@ Currently used IDs
 * Various Vendors
   * `0x11E0DACC` - ver `0x0004` - [Integrated Activity Control Module](cpu-control.md)
   * `0x17400011` - ver `~     ` - [Flashable ROM](ROM.md)
-
-* `0xf6976d00` - Chartronics, Inc.
-  * `0xcff2a11d` - ver `0x0001` - [HSDP-1D High Speed Data Printer](Simple Outputs/HSDP-1D.md)
 
 Peripherals (HIC/SSI)
 =====================
